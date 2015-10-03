@@ -34,5 +34,13 @@ Includes antidote to the following:<br>
 [+] Enable regedit<br>
 [+] Erase the startup created<br>
 [+] Restore the text of the taskbar<br>
-<br>
-Video : https://www.youtube.com/watch?v=OsPOh1QhsOQ
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dhvirusmaker.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/OsPOh1QhsOQ/0.jpg)](http://www.youtube.com/watch?v=OsPOh1QhsOQ)
+
+Good Bye
