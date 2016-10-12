@@ -1,7 +1,7 @@
 DH Virus Maker
 ==============
 
-A Botnet IRC made in Delphi.<br>
+A Virus Generator made in Delphi.<br>
 <br>
 You have the following options:<br>
 <br>
